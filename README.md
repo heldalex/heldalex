@@ -11,10 +11,13 @@
 
 • Lifelong learner with an open and curious mindset, continuously improving his skills through internships, projects and professional experiences.
 
+
 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/alexander-held-105970272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/OmarAbdulwahab" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heldalex&show_icons=true&locale=en&layout=compact" alt="heldalex" /></p>
 
 <!--
 **heldalex/heldalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
