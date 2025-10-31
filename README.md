@@ -64,7 +64,6 @@
 </p>
 
 
-&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=heldalex&base=60)
 
