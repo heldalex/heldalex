@@ -16,7 +16,6 @@
 
 ### 🧠 Skills
 - Python, C++
-- Machine Learning, Deep Learning, Data Science
 - PyTorch, Git, LaTeX, Docker, SQL
 - Linux, Windows
 
