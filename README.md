@@ -63,11 +63,9 @@
   </a>
 </p>
 
-
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=heldalex&base=60)
-
-<br><br>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heldalex&show_icons=true&locale=en&layout=compact" alt="heldalex" /></p>
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heldalex&show_icons=true&theme=radical)
