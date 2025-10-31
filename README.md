@@ -28,26 +28,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/latex" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" alt="LaTeX" height="40" width="40" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
 
