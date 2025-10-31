@@ -62,9 +62,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="heldalex" height="30" width="40" />
   </a>
 </p>
-
 <br><br>
-
 ![](https://komarev.com/ghpvc/?username=heldalex&base=60)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heldalex&show_icons=true&locale=en&layout=compact" alt="heldalex" /></p>
