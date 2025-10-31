@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> 
   </a>
 </p>
+
 ---
 
 📫 Connect with me:
@@ -58,6 +59,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="heldalex" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ![](https://komarev.com/ghpvc/?username=heldalex&base=60)
 
