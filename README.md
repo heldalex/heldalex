@@ -16,7 +16,8 @@
 
 ### 🧠 Skills
 - Python, C++
-- PyTorch, Git, LaTeX, Docker, SQL
+- PyTorch, Scikit-Learn
+- Git, LaTeX, Docker, SQL
 - Linux, Windows
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -42,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
