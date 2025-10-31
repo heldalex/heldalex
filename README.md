@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alexander Held
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer+;and+Tech+lover!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=heldalex&base=92)
+![](https://komarev.com/ghpvc/?username=heldalex&base=60)
 
 
 👨‍💻 Machine Learning Intern at Bosch 
