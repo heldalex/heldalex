@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Alexander Held
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Nice+to+e-meet+you!;I'm+a+software+Engineer+;Tech+lover)](https://git.io/typing-svg)
+
+• Machine Learning Intern at Bosch 
+
+• M.Sc. Artificial Intelligence Student at the University of Freiburg
+
+• B.Sc. Computer Science Graduate from the University of Tübingen
+
+• Passionate about Artificial Intelligence, Data Science, Innovation and personal & professional development.
+
+• Lifelong learner with an open and curious mindset, continuously improving his skills through internships, projects and professional experiences.
 
 <!--
 **heldalex/heldalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
