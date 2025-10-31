@@ -43,12 +43,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/latex" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" alt="LaTeX" height="40" width="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/latex" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" alt="LaTeX" height="40" width="40" />
-  </a>
 </p>
 
 ---
