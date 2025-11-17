@@ -6,6 +6,8 @@
 
 🎓 M.Sc. Artificial Intelligence Student at the University of Freiburg
 
+🎓 B.Sc. Computer Science Graduate from the University of Tübingen
+
 🔍 Passionate about Artificial Intelligence, Data Science, Innovation and personal & professional development.
 
 🌱 Lifelong learner with an open and curious mindset, continuously improving his skills through internships, projects and professional experiences.
