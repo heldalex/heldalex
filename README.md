@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 Skills
+## 🧠 Skills
 - Python, C++
 - PyTorch, Scikit-Learn
 - Git, LaTeX, Docker, SQL
