@@ -10,7 +10,7 @@
 
 🔍 Passionate about Artificial Intelligence, Data Science, Innovation and personal & professional development.
 
-🌱 Lifelong learner with an open and curious mindset, continuously improving his skills through internships, projects and professional experiences.
+🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects and professional experiences.
 
 ---
 
