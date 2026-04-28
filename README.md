@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer+;and+Tech+lover!)](https://git.io/typing-svg)
 
 
-👨‍💻 Machine Learning Intern at Bosch 
+👨‍💻 Machine Learning Working Student at Bosch
 
 🎓 M.Sc. Artificial Intelligence Student at the University of Freiburg
 
