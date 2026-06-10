@@ -12,7 +12,7 @@
 
 🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects and professional experiences.
 
-```
+```python
 import torch; lifetime.optimize()
 ```
 
