@@ -12,7 +12,6 @@
 
 🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects, and professional experiences.
 
-☕ Powered by coffee and driven by deep neural networks.
 
 ```python
 import torch; lifetime.optimize()
