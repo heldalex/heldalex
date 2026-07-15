@@ -2,15 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer+;and+Tech+lover!)](https://git.io/typing-svg)
 
 
-👨‍💻 Machine Learning Working Student at Bosch
+👨‍💻 Machine Learning Working Student at Bosch, researching & implementing AI solutions for semiconductor production.
 
-🎓 M.Sc. Artificial Intelligence Student at the University of Freiburg
+🎓 M.Sc. Computer Science student specializing in artificial intelligence at the University of Freiburg.
 
-🎓 B.Sc. Computer Science Graduate from the University of Tübingen
+🚀 Passionate about artificial intelligence, data science, innovation, and personal & professional development.
 
-🔍 Passionate about Artificial Intelligence, Data Science, Innovation and personal & professional development.
+🔎 Focus on automated machine learning (AutoML), deep learning, computer vision, tabular data models, explainable AI, neural architecture search (NAS), and hyperparameter optimization (HPO).
 
-🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects and professional experiences.
+🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects, and professional experiences.
+
+☕ Powered by coffee and driven by deep neural networks.
 
 ```python
 import torch; lifetime.optimize()
