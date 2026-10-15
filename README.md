@@ -4,17 +4,15 @@
 
 👨‍💻 Machine Learning Working Student at Bosch, researching & implementing AI solutions for semiconductor production.
 
-🎓 M.Sc. Computer Science student specializing in artificial intelligence at the University of Freiburg.
+🎓 M.Sc. Computer Science student specializing in AI at the University of Freiburg.
 
-🚀 Passionate about artificial intelligence, data science, innovation, and personal & professional development.
+🚀 Passionate about AI, data science, innovation, and personal & professional development.
 
-🔎 Focus on automated machine learning (AutoML), deep learning, computer vision, tabular data models, explainable AI, neural architecture search (NAS), and hyperparameter optimization (HPO).
-
-🌱 Lifelong learner with an open and curious mindset, continuously improving through internships, projects, and professional experiences.
+🔎 Focus on automated machine learning (AutoML), deep learning, computer vision, tabular data models, explainable AI, neural architecture search (NAS), hyperparameter optimization (HPO), and ML in bioinformatics.
 
 
 ```python
-import torch; lifetime.optimize()
+import torch; life.optimize()
 ```
 
 ---
